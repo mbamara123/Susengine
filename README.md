@@ -14,6 +14,16 @@ The idea for Susengine was inspired by my background in materials and metallurgi
 
 
 ## 🚀 Features
+🛠️ Interactive Modules – Demonstrations of sustainable engineering workflows.
+
+📊 Data Visualization – Graphical insights into energy/material efficiency.
+
+🌍 Sustainability Focus – Emphasis on eco-design, clean processes, and environmental stewardship.
+
+💻 Web-Based – Built with accessible tools for easy deployment and testing.
+
+📚 Documentation – Includes write-ups that connect theory with practice.
+
 - AI-based prediction of recyclability and degradation pathways.
 - Database of advanced materials with performance metrics.
 - Computational simulations linking structure → property → performance.
