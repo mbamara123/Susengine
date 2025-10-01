@@ -1,13 +1,17 @@
-# SUSTAINENGINE 
-Susengine – A sustainability-driven platform integrating membrane engineering, multiphase systems, and functional advanced materials with artificial intelligence to accelerate innovation in clean energy, water treatment, and circular economy solutions.
-
-# Susengine 🌱⚡
+# Susengine 🌱
 **AI-Powered Sustainable Materials Research Platform**
 
 Susengine is a research-oriented platform that integrates curated materials databases with AI-driven modeling to predict material performance for sustainability applications.  
 It focuses on **energy storage, recycling, and water treatment**, helping researchers and industries accelerate discovery and optimize materials for circular economy systems.
 
+🔗 Live Demo: www.susengine.com
+
 ---
+
+## ✨ Inspiration
+
+The idea for Susengine was inspired by my background in materials and metallurgical engineering and my commitment to sustainability. During my academic and industrial experiences, I observed the urgent need for efficient water treatment, optimized energy systems, and smarter material design. By merging AI tools with functional materials research, Susengine became a platform to simulate, showcase, and communicate these sustainable innovations.
+
 
 ## 🚀 Features
 - AI-based prediction of recyclability and degradation pathways.
@@ -47,28 +51,7 @@ MIT License
 
 
 
-# 🌍 SustainEngine (Susengine)
 
-SustainEngine is a web-based platform that leverages **AI, data analytics, and visualization tools** to promote **sustainable engineering practices** across multiple sectors.  
-The project is built with the aim of supporting **multiphase systems for sustainable engineering**, focusing on materials, energy efficiency, and environmental impact reduction.
-
----
-
-## 🚀 Features
-- **AI-powered analytics**: Uses machine learning models to process sustainability data.  
-- **Interactive dashboard**: Visualizes performance indicators in real time.  
-- **Multiphase system modeling**: Simulates interactions across different engineering domains.  
-- **Database integration**: Structured storage and retrieval of datasets for research and industry case studies.  
-- **Scalable architecture**: Modular design that allows future expansion.
-
----
-
-## 🛠️ Tech Stack
-- **Frontend**: React (Lovable.dev UI builder)  
-- **Backend**: Node.js / Express  
-- **Database**: PostgreSQL (via Supabase)  
-- **AI/ML**: Python (Scikit-learn, TensorFlow, Pandas, NumPy)  
-- **Deployment**: Vercel (Frontend), Supabase (Backend + Database)  
 
 ---
 
