@@ -60,20 +60,22 @@ The idea for Susengine was inspired by my background in materials and metallurgi
 MIT License
 
 
+Contributions
 
+Contributions are welcome!
+If you have ideas for new features, case studies, or visualizations:
+
+1. Fork this repository
+
+2. Create a new branch (feature-idea)
+
+3. Commit your changes
+
+4. Open a Pull Request
+5. 
 
 
 ---
-
-## 📊 System Architecture
-```mermaid
-flowchart TD
-    A[User Interface (React Frontend)] --> B[Backend API (Node.js/Express)]
-    B --> C[Database (PostgreSQL/Supabase)]
-    B --> D[AI/ML Engine (Python Scripts)]
-    D --> E[Analytics & Predictions]
-    C --> E
-    E --> A
 
 Susengine/
 │── frontend/         # React components & UI logic
