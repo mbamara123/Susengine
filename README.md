@@ -53,6 +53,13 @@ The idea for Susengine was inspired by my background in materials and metallurgi
 ---
 
 ## 📂 Repository Structure
+Susengine/
+│
+├── src/            # Core source code files
+├── assets/         # Images, icons, static resources
+├── docs/           # Documentation and write-ups
+├── LICENSE         # Open-source license
+└── README.md       # Project overview
 
 ---
 
