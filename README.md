@@ -91,3 +91,7 @@ Susengine/
 │── database/         # Supabase schema & queries
 │── public/           # Assets & static files
 │── README.md         # Documentation (this file)
+
+---
+
+✨ Susengine is a step toward making engineering knowledge practical, open, and impactful in addressing sustainability challenges.
