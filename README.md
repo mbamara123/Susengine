@@ -1,6 +1,5 @@
 # Susengine 🌱
 AI-Powered Sustainable Materials Research Platform
-# Welcome to your Lovable project
 
 Susengine is a research-oriented platform that integrates curated materials databases with AI-driven modeling to predict material performance for sustainability applications.  
 It focuses on energy storage, recycling, and water treatment, helping researchers and industries accelerate discovery and optimize materials for circular economy systems.
@@ -9,18 +8,13 @@ This repository combines technical code, data-driven workflows, and scientific d
 
 🔗 Live Demo: www.susengine.com
 ---
-## How can I edit this code?
-
 ## ✨ Inspiration
-There are several ways of editing your application.
 
 The idea for Susengine was inspired by my background in materials and metallurgical engineering and my commitment to sustainability. During my academic and industrial experiences, I observed the urgent need for efficient water treatment, optimized energy systems, and smarter material design. By merging AI tools with functional materials research, Susengine became a platform to simulate, showcase, and communicate these sustainable innovations.
-Use Lovable
 
 ---
 
 ## ✨ Key Features  
-Changes made via Lovable will be committed automatically to this repo.
 
 - 🧪 Materials & Process Simulation – Explore how advanced materials and clean processes can improve engineering performance.  
 - 🤖 AI-Enhanced Models – Apply data-driven methods for optimization, prediction, and sustainable decision-making.  
@@ -31,7 +25,6 @@ Changes made via Lovable will be committed automatically to this repo.
 Use your preferred IDE
 
 ---
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
 ## 🎯 Vision & Purpose  
 
@@ -56,17 +49,12 @@ Ultimately, Susengine represents the intersection of Materials & Metallurgical E
 - Hosting: Vercel  
 
 ---
-**Edit a file directly in GitHub**
 
 ## 📊 Example Workflow
 1. User selects a material (e.g., polymer for energy storage).  
 2. System retrieves data from curated database.  
 3. AI model predicts recyclability, degradation pathway, and performance.  
 4. Results are visualized in the dashboard with recommendations.
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
 ---
 
 ---
