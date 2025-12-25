@@ -8,8 +8,6 @@ This repository combines technical code, data-driven workflows, and scientific d
 ## Project info
 
 🔗 Live Demo: www.susengine.com
-URL: https://lovable.dev/projects/3aed0997-ccd6-45dc-bb4c-fd6441d8f0a3
-
 ---
 ## How can I edit this code?
 
@@ -20,7 +18,6 @@ The idea for Susengine was inspired by my background in materials and metallurgi
 Use Lovable
 
 ---
-Simply visit the [Lovable Project](https://lovable.dev/projects/3aed0997-ccd6-45dc-bb4c-fd6441d8f0a3) and start prompting.
 
 ## ✨ Key Features  
 Changes made via Lovable will be committed automatically to this repo.
@@ -37,7 +34,6 @@ Use your preferred IDE
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
 ## 🎯 Vision & Purpose  
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
 Susengine was created to:  
 Follow these steps:
@@ -50,24 +46,14 @@ Follow these steps:
   - Smart manufacturing with AI  
   - Water and environmental engineering  
 `sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
 
 Ultimately, Susengine represents the intersection of Materials & Metallurgical Engineering, Computational Intelligence, and Sustainable Development.  
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
----
-# Step 3: Install the necessary dependencies.
-npm i
 
 ## 🛠️ Technology Stack
 - Frontend: React (built on lovable.dev)  
 - Backend: Supabase (PostgreSQL, authentication, APIs)  
 - AI/ML: Python (scikit-learn, TensorFlow, PyTorch)  
 - Hosting: Vercel  
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
 
 ---
 **Edit a file directly in GitHub**
@@ -82,15 +68,6 @@ npm run dev
 - Make your changes and commit the changes.
 
 ---
-**Use GitHub Codespaces**
-
-## 📸 Screenshots
-*(Insert screenshots of your UI here — homepage, dashboard, material prediction page, etc.)*
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
 ---
 ## What technologies are used for this project?
@@ -112,31 +89,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## 🚀 Getting Started  
-## How can I deploy this project?
 
-### Prerequisites  
-- Basic knowledge of **Python, MATLAB, or JavaScript** (depending on the module used).  
-- Familiarity with **materials processing concepts, energy systems, and AI workflows**.  
-Simply open [Lovable](https://lovable.dev/projects/3aed0997-ccd6-45dc-bb4c-fd6441d8f0a3) and click on Share -> Publish.
-
-### Setup  
-## Can I connect a custom domain to my Lovable project?
-
-1. **Clone the repository**  
-   
-bash
-   git clone https://github.com/mbamara123/sustainengine.git
-   cd Susengine
-Yes, you can!
-
-   ---
-To connect a domain, navigate to Project > Settings > Domains and click Connect DomCore Languagesk
-**Core Languages**: Python, JavaScript, MATLAB (AI/ML Libraries
-**AI/ML Libraries**: TensorFlow / Scikit-learn (for optimizatVisualizationn)
-**Visualization**Documentationjs
-**Documentation**: Markdown, Version Control
-**Version Control**: Git & GitHub
 ---
 ## Use Cases
 AI-Driven Materials Research – Optimize alloy properties, composites, and coatings for better performance.
@@ -174,7 +127,6 @@ MIT License
 ---
 ## 👤 Author
 Founder: Mbamara Favour Arinzechukwu 
-GitHub: @your-username
 LinkedIn: [https://www.linkedin.com/in/mbamara-favour-040343232]
 ---
 Susengine/
