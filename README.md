@@ -3,7 +3,7 @@ AI-Powered Sustainable Materials Research Platform
 
 Susengine is a research-oriented platform that integrates curated materials databases with AI-driven modeling to predict material performance for sustainability applications.  
 It focuses on energy storage, recycling, and water treatment, helping researchers and industries accelerate discovery and optimize materials for circular economy systems.
-This repository combines technical code, data-driven workflows, and scientific documentation to bridge the gap between theory, industrial practice, and AI-driven research.  
+
 ## Project info
 
 🔗 Live Demo: www.susengine.com
@@ -21,8 +21,6 @@ The idea for Susengine was inspired by my background in materials and metallurgi
 - ♻️ Circular Economy Integration – Demonstrate recycling, waste reduction, and life-cycle efficiency.  
 - 🔋 Energy Systems Focus – Investigate resource efficiency, renewable energy integration, and sustainable production.  
 - 📊 Interactive Visualization – Use graphical insights to make engineering data accessible and actionable.  
-- 📚 Knowledge + Code – Repository includes both technical implementations and explanatory write-ups.
-Use your preferred IDE
 
 ---
 
@@ -38,8 +36,6 @@ Follow these steps:
   - Energy-efficient production systems  
   - Smart manufacturing with AI  
   - Water and environmental engineering  
-`sh
-
 Ultimately, Susengine represents the intersection of Materials & Metallurgical Engineering, Computational Intelligence, and Sustainable Development.  
 
 ## 🛠️ Technology Stack
