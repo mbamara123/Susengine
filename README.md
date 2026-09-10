@@ -1,4 +1,4 @@
-# Susengine 🌱
+# Susengine
 AI-Powered Sustainable Materials Research Platform
 
 Susengine is a research-oriented platform that integrates curated materials databases with AI-driven modeling to predict material performance for sustainability applications.  
@@ -6,25 +6,25 @@ It focuses on energy storage, recycling, and water treatment, helping researcher
 
 ## Project info
 
-🔗 Live Platform: https://susengine.lovable.app/
+ Live Platform: https://susengine.lovable.app/
 ---
-## ✨ Inspiration
+##  Inspiration
 
 The idea for Susengine was inspired by my background in materials and metallurgical engineering and my commitment to sustainability. During my academic and industrial experiences, I observed the urgent need for efficient water treatment, optimized energy systems, and smarter material design. By merging AI tools with functional materials research, Susengine became a platform to simulate, showcase, and communicate these sustainable innovations.
 
 ---
 
-## ✨ Key Features  
+##  Key Features  
 
-- 🧪 Materials & Process Simulation – Explore how advanced materials and clean processes can improve engineering performance.  
-- 🤖 AI-Enhanced Models – Apply data-driven methods for optimization, prediction, and sustainable decision-making.  
-- ♻️ Circular Economy Integration – Demonstrate recycling, waste reduction, and life-cycle efficiency.  
-- 🔋 Energy Systems Focus – Investigate resource efficiency, renewable energy integration, and sustainable production.  
-- 📊 Interactive Visualization – Use graphical insights to make engineering data accessible and actionable.  
+-  Materials & Process Simulation – Explore how advanced materials and clean processes can improve engineering performance.  
+-  AI-Enhanced Models – Apply data-driven methods for optimization, prediction, and sustainable decision-making.  
+-  Circular Economy Integration – Demonstrate recycling, waste reduction, and life-cycle efficiency.  
+-  Energy Systems Focus – Investigate resource efficiency, renewable energy integration, and sustainable production.  
+-  Interactive Visualization – Use graphical insights to make engineering data accessible and actionable.  
 
 ---
 
-## 🎯 Vision & Purpose  
+##  Vision & Purpose  
 
 Susengine was created to:  
 Follow these steps:
@@ -38,7 +38,7 @@ Follow these steps:
   - Water and environmental engineering  
 Ultimately, Susengine represents the intersection of Materials & Metallurgical Engineering, Computational Intelligence, and Sustainable Development.  
 
-## 🛠️ Technology Stack
+##  Technology Stack
 - Frontend: React (built on lovable.dev)  
 - Backend: Supabase (PostgreSQL, authentication, APIs)  
 - AI/ML: Python (scikit-learn, TensorFlow, PyTorch)  
@@ -46,7 +46,7 @@ Ultimately, Susengine represents the intersection of Materials & Metallurgical E
 
 ---
 
-## 📊 Example Workflow
+##  Example Workflow
 1. User selects a material (e.g., polymer for energy storage).  
 2. System retrieves data from curated database.  
 3. AI model predicts recyclability, degradation pathway, and performance.  
@@ -56,7 +56,7 @@ Ultimately, Susengine represents the intersection of Materials & Metallurgical E
 ---
 ## What technologies are used for this project?
 
-## 📂 Repository Structure
+##  Repository Structure
 Susengine/
 │
 ├── src/            # Core source code files
@@ -104,12 +104,12 @@ If you have ideas for new features, case studies, or visualizations:
 4. Open a Pull Request
    
 ---
-## 📸 Demo / Preview
+##  Demo / Preview
 ---
-## 📜 License
+##  License
 MIT License
 ---
-## 👤 Author
+##  Author
 Founder: Mbamara Favour Arinzechukwu 
 LinkedIn: [https://www.linkedin.com/in/mbamara-favour-040343232]
 ---
@@ -121,6 +121,6 @@ Susengine/
 │── public/           # Assets & static files
 │── README.md         # Documentation (this file)
 ---
-✨ Susengine is a step toward making engineering knowledge practical, open, and impactful in addressing sustainability challenges.
+ Susengine is a step toward making engineering knowledge practical, open, and impactful in addressing sustainability challenges.
 ---
 
