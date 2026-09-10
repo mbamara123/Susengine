@@ -6,7 +6,7 @@ It focuses on energy storage, recycling, and water treatment, helping researcher
 
 ## Project info
 
-🔗 Live Demo: https://susengine.lovable.app/
+🔗 Live Platform: https://susengine.lovable.app/
 ---
 ## ✨ Inspiration
 
